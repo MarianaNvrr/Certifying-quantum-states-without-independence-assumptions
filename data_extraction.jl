@@ -120,7 +120,7 @@ display(plt)
 ############################# IBM EXPERIMENT ############################# 
 using NPZ
 
-data = npzread("programs/data/fidelity_p0.1.npz")
+data = npzread("data/fidelity_p0.1.npz")
 
 # Parameters used for the plots
 # p = 0.1
